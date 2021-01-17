@@ -76,7 +76,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/vitorserrano/ecoleta.git
+  $ git clone https://github.com/LeonardoSCarvalho/ecoleta.git
 ```
 
 2. Executando a Aplicação:
@@ -122,5 +122,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h4 align="center">
-    Feito com 💜 by <a href="https://www.linkedin.com/in/LeonardoSCarvalho/" target="_blank">Leonardo Carvalho</a>
+    Feito com 💜 by <a href="https://www.linkedin.com/in/leonardo-carvalho-0988471b3/" target="_blank">Leonardo Carvalho</a>
 </h4>
